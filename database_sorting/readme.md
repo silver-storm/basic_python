@@ -1,1 +1,1 @@
-THIS IS A SIMPLE SCRIPT TO SORT Excel/Csv Files by given Column, Key and Axis
+This is a simple script to sort Excel/Csv Files by given Column, Key and Axis
